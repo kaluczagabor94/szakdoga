@@ -1,0 +1,17 @@
+.bg-dark {
+    background-color: #000000!important;
+    opacity: 0.8;
+}
+.navbar{
+    padding: .1rem 1rem;  
+    
+}
+.navbar-nav li{
+    margin:0px 10px;
+}
+body{
+    background-image: url(./style/bc.jpg);
+    background-size: repeat-y;
+    background-size: cover;
+    
+}
