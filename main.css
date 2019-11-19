@@ -10,8 +10,10 @@
     margin:0px 10px;
 }
 body{
-    background-image: url(./style/bc.jpg);
+    background-image: url(./style/background.jpg);
     background-size: repeat-y;
     background-size: cover;
     
 }
+
+
