@@ -11,8 +11,9 @@
 }
 body{
     background-image: url(./style/background.jpg);
-    background-size: repeat-y;
+    background-size: no-repeat;
     background-size: cover;
+    
     
 }
 
