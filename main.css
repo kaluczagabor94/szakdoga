@@ -15,6 +15,37 @@ body{
     background-size: cover;
     
     
+    
 }
+
+
+.menu{
+    margin-top: 20px;
+    background-color: black;
+    opacity: 0.8;
+    color:white;
+    
+}
+.ma-row{
+    padding-bottom: 1.5vh;
+    padding-top:1vh;
+    border: solid 0.01rem white;
+   
+    
+    
+}
+    
+    
+
+/*
+.ma-row{
+    border: 3px solid black;
+    
+}
+.ma-col{
+    border: 3px dotted red;
+}
+*/
+
 
 
